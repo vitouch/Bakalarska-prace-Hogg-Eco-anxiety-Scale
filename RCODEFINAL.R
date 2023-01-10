@@ -263,7 +263,7 @@ f1 =~ Q25_5 + Q25_6 + Q25_7 + Q25_9 + Q25_14 + Q25_8 + Q25_13 + Q25_15
 proenvpolmodelbasic_cfa <- cfa(proenvpolmodelbasic, mydata, estimator = "WLSMV", ordered = TRUE)
 summary(proenvpolmodelbasic_cfa, fit.measures = TRUE, standardized = TRUE, rsquare=TRUE)
 residuals(proenvpolmodelbasic_cfa, type="cor")$cov
-compRelSEM(proenvpol_cfa, return.total = TRUE)
+compRelSEM(proenvpolmodelbasic_cfa, return.total = TRUE)
 modificationindices(proenvpolmodelbasic_cfa, sort=TRUE)
 proenvpolmodel <- '
 f2 =~ Q25_10 + Q25_11 + Q25_12 + Q25_16 + Q25_17 + Q25_18 + Q25_19 + Q25_20
