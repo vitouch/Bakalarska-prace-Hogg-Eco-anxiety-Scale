@@ -1,4 +1,4 @@
-# Bakalarska-prace-Hogg-Eco-anxiety-Scale
+# Doplňující repozitář k bakalářské práci Validace české verze Hoggovy škály environmentální úzkosti
 Tento repozitář obsahuje doplňující soubory k mé [bakalářské práci](https://is.muni.cz/auth/th/mhw60/), ve které jsem přeložil a ověřoval psychometrické vlastnosti Hoggovy škály environmentální úzkosti, originál viz [Hogg et al. 2021](https://doi.org/10.1016/j.gloenvcha.2021.102391).
 
 Vzhledem k časové tísni, ve které jsem práci dokončoval, obsahuje text několik věcných chyb a nepřesností. Cílem tohoto repozitáře je tedy opravit tyto nepřesnosti, ale především umožnit, tak, jak jsem se v textu zavázal, bez problému replikovat v práci použité analýzy či znovupoužít získaná data.
