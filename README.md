@@ -3,7 +3,7 @@ Tento repozitář obsahuje doplňující soubory k mé [bakalářské práci](ht
 
 Vzhledem k časové tísni, ve které jsem práci dokončoval, obsahuje text několik věcných chyb a nepřesností. Cílem tohoto repozitáře je tedy opravit tyto nepřesnosti, ale především umožnit, tak, jak jsem se v textu zavázal, bez problému replikovat v práci použité analýzy či znovupoužít získaná data.
 
-V tuto chvíli repozitář obsahuje 3 datasety - první ze srpnového sběru dat (soubor STUDY1-29-08-2022.CSV), druhý z podzimního sběru dat (STUDY2-10-12-2022.CSV) a třetí "longitudinální", který obsahuje spojená data ze srpnového a podzimního sběru. Proměnné v jednotlivých datasetech, jejich popis, znění otázek a jejich škály jsou popsány v codebooku (Codebook.docx).
+V tuto chvíli repozitář obsahuje 3 datasety - první ze srpnového sběru dat (soubor STUDY1-29-08-2022.CSV), druhý z podzimního sběru dat (STUDY2-10-12-2022.CSV) a třetí "longitudinální" (longitudinal1.csv), který obsahuje spojená data ze srpnového a podzimního sběru. Proměnné v jednotlivých datasetech, jejich popis, znění otázek a jejich škály jsou popsány v codebooku (Codebook.docx).
 
 Pro replikování analýzy by mělo stačit stáhnout všechny soubory do jedné složky, v R studiu otevřít skript (RCODEFINAL.R) a postupně spouštět kód od začátku.
 
